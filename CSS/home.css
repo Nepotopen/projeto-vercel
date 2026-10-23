@@ -1,0 +1,19 @@
+@import url(layout.css);
+
+/* crie o arquivo "variables.css" 
+O bloco :root inteiro w colocado nele
+
+Renomeie o Style.css para "Layout.css"
+
+em layout.css para "layout.css"
+
+em home.css importe layout.css*/
+
+.hero{
+
+background-color: var(--cor-do-texto-secundario);
+
+height: 90vh;
+
+
+}
